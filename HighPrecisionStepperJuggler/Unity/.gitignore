@@ -1,0 +1,10 @@
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+.idea/
+.vs/
+Library/
+obj/

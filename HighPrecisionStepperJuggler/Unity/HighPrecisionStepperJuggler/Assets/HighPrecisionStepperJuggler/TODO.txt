@@ -1,0 +1,26 @@
+
+
+[X] execute controlstrategies start/stop with space
+[X] overlay image processing image onto custom grayscale image.
+[X] display red channel red, green channel green ect.
+[X] image processing image switching with "1"
+[X] text to explain what kind of image processing we're showing
+[X] better key control for image stream switching.
+[X] cool moving around startup thingy.
+[X] fix model upper joint animation.
+[X] add smaller datapoints to see path ball took.
+[ ] camera circling around machine?
+[ ] fix runtime error that occurs when no camera is connected.
+
+[ ] make video
+[ ] Write latex math file
+
+lower link length: 89
+upper link length: 80
+upper most link length: 35 + 6.5 + 8 = 49.5 (from plate edge to joint) 
+upper most link from joint to motor axis center: 49.5 + 21.023 = 70.523
+
+memo:
+
+
+
