@@ -1,0 +1,8 @@
+name: mymac
+on: push
+jobs:
+  MacOs:
+    runs-on: macos-latest
+    steps:
+    - name: Setup Debug Session
+      uses: csexton/debugger-action@master
